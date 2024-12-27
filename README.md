@@ -21,3 +21,6 @@ Você deve tentar adivinhar o número, digitando seu chute.
 O jogo vai te informar se o número secreto é maior ou menor que o chute dado.
 
 Continue tentando até acertar o número secreto.
+
+
+Link: https://lucaas011.github.io/Jogo-adivinhacao/
